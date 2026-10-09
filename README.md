@@ -174,10 +174,9 @@ This project can be used as a basic example for:
 
 ## 👨‍💻 Author
 
-**Sushobhit Jajoriya**
+**Kunal Sadh**
 
-GitHub: [@sushobhitjajoriya9](https://github.com/sushobhitjajoriya9)
-
+GitHub: (https://github.com/kunalsadh540-cloud)
 ---
 
 ⭐ If you find this project useful, consider giving the repository a **star**!
