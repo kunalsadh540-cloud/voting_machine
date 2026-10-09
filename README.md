@@ -105,7 +105,7 @@ vvp voting_machine_sim
 
 The simulation waveform shows the clock, reset, vote inputs, and corresponding candidate vote counters.
 
-![Voting Machine Waveform](waveform.png)
+![Voting Machine Waveform](WhatsApp Image 2026-10-09 at 2.10.39 PM.jpeg)
 
 ### Signals Observed
 
